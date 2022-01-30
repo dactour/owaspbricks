@@ -1,5 +1,5 @@
 <?php
-if(!@include_once('LocalSettings.php')) 
+if(!@include_once('LocalSettings.php'))
 {
 header( 'Location: config/' ) ;
 }
@@ -12,11 +12,11 @@ header( 'Location: config/' ) ;
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width" />
-  <title>Welcome to OWASP Bricks</title>  
+  <title>Welcome to OWASP Bricks</title>
   <!-- Included CSS Files (Uncompressed) -->
   <!--
   <link rel="stylesheet" href="stylesheets/foundation.css">
-  -->  
+  -->
   <!-- Included CSS Files (Compressed) -->
   <link rel="stylesheet" href="stylesheets/foundation.min.css">
   <link rel="stylesheet" href="stylesheets/app.css">
@@ -53,7 +53,7 @@ header( 'Location: config/' ) ;
   </div>
 
   <!-- End Header and Nav -->
- 
+
   <!-- First Band (Image) -->
 
   <div class="row">
@@ -61,7 +61,7 @@ header( 'Location: config/' ) ;
       <a href="http://www.flickr.com/photos/sprengben/4315145017/" target="_blank"><img src="images/123.png" /></a>
     </div>
   </div>
-  
+
   <div class="row">
     <div class="twelve columns">
       <h4>Welcome to Bricks!</h4>
@@ -73,9 +73,9 @@ header( 'Location: config/' ) ;
   </div>
 
   <div class="row">
-    <div class="twelve columns">    
+    <div class="twelve columns">
     </div>
-  </div>  
+  </div>
   <!-- Footer -->
 
   <footer class="row">
@@ -83,7 +83,7 @@ header( 'Location: config/' ) ;
       <hr />
       <div class="row">
         <div class="six columns">
-          <p><a href="http://sechow.com/bricks/" target="_blank">OWASP Bricks</p>
+          <p><a href="http://sechow.com/bricks/" target="_blank">OWASP Bricks - &copy; 2022</p>
         </div>
         <div class="right">
            <a href="http://www.facebook.com/OWASPBricks" target="_blank"><img src="images/Facebook.png"/></a>&nbsp;<a href="https://twitter.com/OWASPBricks" target="_blank"><img src="images/Twitter.png"/></a>&nbsp;<a href="https://sourceforge.net/p/owaspbricks/" target="_blank"><img src="images/Sourceforge.png"/></a>&nbsp;<a href="https://www.owasp.org/index.php/OWASP_Bricks" target="_blank"><img src="images/owasp.png"/></a>&nbsp;<a href="http://gplus.to/OWASPBricks" target="_blank"><img src="images/Google+.png"/></a>&nbsp;<a href="https://www.youtube.com/OWASPBricks" target="_blank"><img src="images/YouTube.png"/></a>&nbsp;<a href="http://owaspbricks.blogspot.com/" target="_blank"><img src="images/Blogger.png"/></a>
@@ -91,54 +91,54 @@ header( 'Location: config/' ) ;
       </div>
     </div>
   </footer>
-	
-	
-	
+
+
+
   </div>
 
-  
-  
+
+
   <!-- Included JS Files (Uncompressed) -->
   <!--
-  
+
   <script src="javascripts/jquery.js"></script>
-  
+
   <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
-  
+
   <script src="javascripts/jquery.foundation.forms.js"></script>
-  
+
   <script src="javascripts/jquery.foundation.reveal.js"></script>
-  
+
   <script src="javascripts/jquery.foundation.orbit.js"></script>
-  
+
   <script src="javascripts/jquery.foundation.navigation.js"></script>
-  
+
   <script src="javascripts/jquery.foundation.buttons.js"></script>
-  
+
   <script src="javascripts/jquery.foundation.tabs.js"></script>
-  
+
   <script src="javascripts/jquery.foundation.tooltips.js"></script>
-  
+
   <script src="javascripts/jquery.foundation.accordion.js"></script>
-  
+
   <script src="javascripts/jquery.placeholder.js"></script>
-  
+
   <script src="javascripts/jquery.foundation.alerts.js"></script>
-  
+
   <script src="javascripts/jquery.foundation.topbar.js"></script>
-  
+
   <script src="javascripts/jquery.foundation.joyride.js"></script>
-  
+
   <script src="javascripts/jquery.foundation.clearing.js"></script>
-  
+
   <script src="javascripts/jquery.foundation.magellan.js"></script>
-  
+
   -->
-  
+
   <!-- Included JS Files (Compressed) -->
   <script src="javascripts/jquery.js"></script>
   <script src="javascripts/foundation.min.js"></script>
-  
+
   <!-- Initialize JS Plugins -->
   <script src="javascripts/app.js"></script>
 
